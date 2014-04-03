@@ -1,0 +1,4 @@
+QCKEditor
+=========
+
+A WYSIWYG editor.
